@@ -1,6 +1,6 @@
 import Image from "next/image";
 import ParticlesContainer from "../components/ParticlesContainer";
-import projectsBtn from "../components/projectsBtn";
+import ProjectsBtn from "../components/projectsBtn";
 import Avatar from "../components/Avatar";
 
 import { motion } from "framer-motion";
