@@ -7,11 +7,10 @@ import { useRouter } from "next/router";
 import { AnimatePresence, motion } from "framer-motion";
 function MyApp({ Component, pageProps }) {
   const route = useRouter();
-  const pathame = route.pathname;
   return (
     <Layout>
       <AnimatePresence mode="wait">
-        <motion.div className="">
+        <motion.div className="h-full" key={route.route}>
           <Transition />
           <Component {...pageProps} />
         </motion.div>
