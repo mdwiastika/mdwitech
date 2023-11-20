@@ -61,10 +61,6 @@ const aboutData = [
         title: "Informatics Engineering - Electronic Engineering Polytechnic Institute",
         stage: "2023",
       },
-      {
-        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
-        stage: "2006",
-      },
     ],
   },
 ];
