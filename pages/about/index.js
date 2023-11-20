@@ -120,7 +120,7 @@ const About = () => {
               );
             })}
           </div>
-          <div className="py-2 xl:py-6 flex flex-col gap-y-2 xl:gap-y-4 items-center xl:items-start bg-pink-500/10 rounded-md">
+          <div className="py-2 xl:py-6 flex flex-col gap-y-2 xl:gap-y-4 items-center xl:items-start bg-purple-500/10 rounded-md lg:px-3">
             {aboutData[index].info.map((item, item_index) => {
               return (
                 <div className="flex-1 flex flex-col md:flex-row max-w-max gap-x-2 items-center text-white/60" key={item_index}>
