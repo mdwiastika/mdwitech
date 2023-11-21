@@ -1,6 +1,4 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import { RxDesktop, RxRocket, RxArrowTopRight, RxFigmaLogo } from "react-icons/rx";
-import { RiReactjsLine, RiCloudLine } from "react-icons/ri";
 import { Pagination } from "swiper";
 import { BsArrowRight } from "react-icons/bs";
 import "swiper/css";
