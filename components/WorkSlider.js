@@ -13,18 +13,22 @@ const workSlides = {
         {
           title: "title",
           path: "/thumb1.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
         {
           title: "title",
           path: "/thumb2.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
         {
           title: "title",
           path: "/thumb3.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
         {
           title: "title",
           path: "/thumb4.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
       ],
     },
@@ -33,18 +37,22 @@ const workSlides = {
         {
           title: "title",
           path: "/thumb4.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
         {
           title: "title",
           path: "/thumb1.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
         {
           title: "title",
           path: "/thumb2.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
         {
           title: "title",
           path: "/thumb3.jpg",
+          link: "https://github.com/mdwiastika/mdwitech",
         },
       ],
     },
@@ -72,7 +80,7 @@ const WorkSlider = () => {
                       <Image src={image.path} width={500} height={300} alt={image.title} />
                       <div className="absolute inset-0 bg-gradient-to-l from-transparent via-[#e838cc] to-[#4a22bd] opacity-0 group-hover:opacity-80 transition-all duration-700"></div>
                     </div>
-                    <div className="absolute -top-5 group-hover:top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 transition-all duration-300">
+                    <a href={image.link} target="_blank" className="absolute -top-5 group-hover:top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 transition-all duration-300">
                       <div className="flex items-center gap-x-2 text-[13px] tracking-[0.2em]">
                         <div className="delay-100">LIVE</div>
                         <div className="-translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-150">PROJECT</div>
@@ -80,7 +88,7 @@ const WorkSlider = () => {
                           <BsArrowRight />
                         </div>
                       </div>
-                    </div>
+                    </a>
                   </div>
                 );
               })}

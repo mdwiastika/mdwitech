@@ -8,21 +8,21 @@ import Image from "next/image";
 const testimonialData = [
   {
     image: "/t-avt-1.png",
-    name: "Anne Smith",
+    name: "Budi Susanto",
     position: "Customer",
-    message: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+    message: "We are extremely satisfied with the hard work and expertise of the development team. They managed to deliver innovative and efficient solutions for our project. The final outcome exceeded our expectations",
   },
   {
     image: "/t-avt-2.png",
-    name: "Jane Doe",
+    name: "Kiana Maharani",
     position: "Customer",
-    message: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+    message: "This programmer is outstanding! They not only developed highly functional software but also had a profound understanding of our business needs. Great collaboration!",
   },
   {
     image: "/t-avt-3.png",
-    name: "Jhon Doe",
+    name: "Alvin Joe",
     position: "Customer",
-    message: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+    message: "Very pleased to work with this programmer. They possess outstanding analytical and problem-solving skills. The development process went smoothly, and the results are very stable.",
   },
 ];
 
