@@ -11,51 +11,51 @@ const workSlides = {
     {
       images: [
         {
-          title: "title",
-          path: "/thumb1.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
+          title: "Kalem",
+          path: "/kalem-studio.png",
+          link: "https://kalem.studio",
         },
         {
-          title: "title",
-          path: "/thumb2.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
+          title: "E-Learning Commit",
+          path: "/e-learning.png",
+          link: "https://commit.kalem.studio",
         },
         {
-          title: "title",
-          path: "/thumb3.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
+          title: "Mdwitech",
+          path: "/mdwitech.png",
+          link: "https://mdwitech.vercel.app",
         },
         {
-          title: "title",
-          path: "/thumb4.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
+          title: "East Java",
+          path: "/east-java.png",
+          link: "https://mdwiastika.github.io/SebuahTravel/src/",
         },
       ],
     },
-    {
-      images: [
-        {
-          title: "title",
-          path: "/thumb4.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
-        },
-        {
-          title: "title",
-          path: "/thumb1.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
-        },
-        {
-          title: "title",
-          path: "/thumb2.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
-        },
-        {
-          title: "title",
-          path: "/thumb3.jpg",
-          link: "https://github.com/mdwiastika/mdwitech",
-        },
-      ],
-    },
+    // {
+    //   images: [
+    //     {
+    //       title: "title",
+    //       path: "/thumb4.jpg",
+    //       link: "https://github.com/mdwiastika/mdwitech",
+    //     },
+    //     {
+    //       title: "title",
+    //       path: "/thumb1.jpg",
+    //       link: "https://github.com/mdwiastika/mdwitech",
+    //     },
+    //     {
+    //       title: "title",
+    //       path: "/thumb2.jpg",
+    //       link: "https://github.com/mdwiastika/mdwitech",
+    //     },
+    //     {
+    //       title: "title",
+    //       path: "/thumb3.jpg",
+    //       link: "https://github.com/mdwiastika/mdwitech",
+    //     },
+    //   ],
+    // },
   ],
 };
 
