@@ -28,8 +28,8 @@ const aboutData = [
         stage: "2022",
       },
       {
-        title: "Menyusul - hehe :)",
-        stage: "2023 - 9999",
+        title: "KMIPN Hackathon Winner - Challenge Category",
+        stage: "2025",
       },
     ],
   },
@@ -37,8 +37,24 @@ const aboutData = [
     title: "experience",
     info: [
       {
-        title: "Backend Developer - PT. Otak Kanan",
-        stage: "2021 - 2021",
+        title: "Product Owner - Kalem",
+        stage: "2025",
+      },
+      {
+        title: "Research Assistant (Notulen AI) - Electronic Engineering Polytechnic Institute",
+        stage: "2025 - Present",
+      },
+      {
+        title: "Research Assistant (Smart Farming) - Electronic Engineering Polytechnic Institute",
+        stage: "2025 - Present",
+      },
+      {
+        title: "Backend Developer - Nusajar",
+        stage: "2025 - Present",
+      },
+      {
+        title: "Backend Developer - E-Code HIMIT PENS",
+        stage: "2024 - Present",
       },
       {
         title: "Web Developer - Minarsih TECH",
@@ -47,6 +63,10 @@ const aboutData = [
       {
         title: "Fullstack Developer - Freelance",
         stage: "2021 - 2023",
+      },
+      {
+        title: "Backend Developer - PT. Otak Kanan",
+        stage: "2021 - 2021",
       },
     ],
   },
